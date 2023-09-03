@@ -1,2 +1,2 @@
 # aaa
-[a strange page](/paper/README.md)
+[a strange page](/aaa/README.md)
