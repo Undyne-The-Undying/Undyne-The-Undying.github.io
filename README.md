@@ -1,3 +1,3 @@
 # paper
 
-[aaaa] (/model.md)
+[draft](/model.md)
