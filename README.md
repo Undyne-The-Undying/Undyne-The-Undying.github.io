@@ -1,3 +1,3 @@
 # paper
 
-[draft](/model.md)
+[a strange name](paper/READMD.md)
