@@ -12,7 +12,7 @@ $$
 
 To use KaTeX for rendering math formulas, include the necessary scripts and use the `math` code block:
 
-````html
+```html
 <html>
 <head>
     <title>MathJax Example</title>
@@ -25,4 +25,4 @@ To use KaTeX for rendering math formulas, include the necessary scripts and use 
     <p>Here's an example equation: \(x^2 + y^2 = z^2\)</p>
 </body>
 </html>
-````
+```
