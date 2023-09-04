@@ -234,3 +234,13 @@ LS larsn
 
 MCD none
 ## 3.3 part 6: RegressMethod
+
+```html
+<html>
+<head>
+    <title>MathJax Example</title>
+    <script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+</html>
