@@ -13,7 +13,7 @@ $$
 To use KaTeX for rendering math formulas, include the necessary scripts and use the `math` code block:
 
 <!--
-<head>
+<div>
     <script type="text/javascript" async
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
     </script>
@@ -26,6 +26,6 @@ To use KaTeX for rendering math formulas, include the necessary scripts and use 
             }
         });
     </script>
-</head>
+</div>
 -->
 
