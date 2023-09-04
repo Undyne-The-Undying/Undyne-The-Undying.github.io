@@ -12,7 +12,7 @@ $$
 
 To use KaTeX for rendering math formulas, include the necessary scripts and use the `math` code block:
 
-
+<!--
 <html>
   <head>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
@@ -23,4 +23,4 @@ To use KaTeX for rendering math formulas, include the necessary scripts and use 
   </body>
 </html>
 
-
+-->
