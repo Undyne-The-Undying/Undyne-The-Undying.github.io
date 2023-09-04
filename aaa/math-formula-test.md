@@ -13,6 +13,16 @@ $$
 To use KaTeX for rendering math formulas, include the necessary scripts and use the `math` code block:
 
 ```html
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/contrib/auto-render.min.js"></script>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MathJax Example</title>
+    <script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+    <!-- Your mathematical equations go here -->
+    <p>Here's an example equation: \(x^2 + y^2 = z^2\)</p>
+</body>
+</html>
