@@ -13,7 +13,6 @@ $$
 To use KaTeX for rendering math formulas, include the necessary scripts and use the `math` code block:
 
 ```html
-<!DOCTYPE html>
 <html>
 <head>
     <title>MathJax Example</title>
